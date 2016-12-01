@@ -17,5 +17,5 @@ doi = "http://dx.doi.org/10.1016/j.patcog.2016.11.014",
 </pre>
 
 
-To run this code, download the [15-scene dataset](http://www-cvr.ai.uiuc.edu/ponce_grp/data) and the pretrained [CNN](https://github.com/metalbubble/places365) used for extracting the feature vectors  and set its path in the code.
+To run this code, download the [15-scene dataset](http://www-cvr.ai.uiuc.edu/ponce_grp/data) and the pretrained [CNN](https://github.com/metalbubble/places365) used for extracting the feature vectors and set the paths in the code.
 
