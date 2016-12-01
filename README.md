@@ -1,7 +1,7 @@
 # neural-bof
 ## Neural Bag-of-Features method implemented using Theano
 
-This code is provided as is with the hope to be useful for understanding the concept of entropy optimization. If you use this code in your paper please cite the following paper:
+This code is provided as is with the hope to be useful for understanding the Neural BoF method. If you use this code in your paper please cite the following paper:
 
 <pre>
 @article{neural-bof,
