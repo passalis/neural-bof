@@ -6,7 +6,7 @@ This code is provided as is with the hope to be useful for understanding the Neu
 <pre>
 @article{neural-bof,
 title = "Neural Bag-of-Features learning",
-author = "N. Passalis and A. Tefas",
+author = "Passalis, Nikolaos and Tefas, Anastasios",
 journal = "Pattern Recognition",
 volume = "64",
 number = "",
